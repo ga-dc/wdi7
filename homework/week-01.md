@@ -4,7 +4,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        |                                |[HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
+| Monday        | Due Wednesday                  |[HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
@@ -14,7 +14,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        |                                |[HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
+| Monday        | Due Wednesday                  |[HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
@@ -24,7 +24,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        | Command Line | [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer)  |
+| Monday        | Due Wednesday | Command Line [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer)  |
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
