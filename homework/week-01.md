@@ -24,7 +24,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        | Command Line | [CLI Gardening](https://github.com/ga-dc/cli_gardening)  |
+| Monday        | Command Line | [Kitchen Organized](https://github.com/ga-dc/kitchen_organizer)  |
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
