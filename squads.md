@@ -21,7 +21,7 @@
 - Josh Cohen
 - Tyler	Crosse
 
-## Erica
+## Erica (Dr. Jammer)
 
 - Roshana	Devkota
 - Rebecca	Estes
@@ -31,7 +31,7 @@
 - Mohamed ‘Moe’	Goodwin
 - Dumitru	Gorgan
 
-## Jesse
+## Jesse (Learning to Shred)
 
 - Davis	Green
 - Tim	Gregg
@@ -42,7 +42,7 @@
 - Sarah	Hersh
 - Thom	Householder
 
-## John
+## John (Skwahd)
 
 - Liz	Jacques
 - Wonsik	Jeong
@@ -52,7 +52,7 @@
 - Negar	Kalbasi
 - Teddy	Kentor
 
-## Robin
+## Robin (NaN)
 
 - Chris	Kibble
 - Mariia	Kotylevska
@@ -74,7 +74,7 @@
 - John	Park
 - Jennie	Pengelly
 
-## Matt
+## Matt (Awesome Animal Homies)
 
 - Jorge	Pimentel
 - Matt	Popovich
@@ -84,7 +84,7 @@
 - Markham	Shofner
 - Andre	Shonubi
 
-## Nick
+## Nick (Hackasaurus)
 
 - Thomas	Solow
 - Eric	Stennett
