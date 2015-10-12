@@ -24,7 +24,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        |                                |   |
+| Monday        | Command Line | [Command Line Fu](https://github.com/ga-dc/command_line_fu)  |
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
