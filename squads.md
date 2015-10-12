@@ -63,7 +63,7 @@
 - Chauncey	Manson IV
 - Samir	Mehta
 
-## Andy
+## Andy (<br>ing bad)
 
 - James	Moon
 - Steve	Moore
