@@ -24,7 +24,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        | Command Line | [Command Line Fu](https://github.com/ga-dc/command_line_fu)  |
+| Monday        | Command Line | [CLI Gardening](https://github.com/ga-dc/cli_gardening)  |
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
