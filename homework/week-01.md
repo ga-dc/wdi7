@@ -24,7 +24,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        | Command Line | [Kitchen Organized](https://github.com/ga-dc/kitchen_organizer)  |
+| Monday        | Command Line | [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer)  |
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
