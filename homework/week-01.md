@@ -4,7 +4,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        |                                |[HTML Resume](https://github.com/ga-dc/html_resume)|
+| Monday        |                                |[HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
@@ -14,7 +14,7 @@
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
-| Monday        |                                |[HTML Resume](https://github.com/ga-dc/html_resume)|
+| Monday        |                                |[HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
 | Tuesday       |                                |   |
 | Wednesday     |                                |   |
 | Thursday      |                                |   |
