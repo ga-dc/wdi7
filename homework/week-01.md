@@ -16,7 +16,7 @@
 |---------------|--------------------------------|------------|
 | Monday        | Due Wednesday                  | HTML [HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
 | Tuesday       | Due Wednesday                  | Command Line [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer), Git [HTML Resume Part 2 + Clone Curriculum](https://github.com/ga-dc/curriculum/tree/master/01-front-end-fundamentals/git) |
-| Wednesday     |                                |  CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio)  |
+| Wednesday     | Due Friday                     |  CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio)  |
 | Thursday      |                                |   |
 | Friday        |                                |   |
 
