@@ -26,6 +26,6 @@
 |---------------|--------------------------------|------------|
 | Monday        | Due Wednesday | Command Line [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer)  |
 | Tuesday       | Due Wednesday | HTML [HTML Resume, Part 1](https://github.com/ga-dc/html_resume), Git [HTML Resume Part 2 + Clone Curriculum](https://github.com/ga-dc/curriculum/tree/master/01-front-end-fundamentals/git) |   |
-| Wednesday     | Due Friday                     | JS [Calculator](https://github.com/ga-dc/js-calculator)   |
-| Thursday      |                                | CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio), JS [Choose Your Adventure](https://github.com/ga-dc/choose_your_own_adventure_js)   |
+| Wednesday     | Due Friday                     | JS [Calculator](https://github.com/ga-dc/js-calculator), CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio), JS [Choose Your Adventure](https://github.com/ga-dc/choose_your_own_adventure_js)   |
+| Thursday      |                                |    |
 | Friday        |                                |   |
