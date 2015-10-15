@@ -20,7 +20,7 @@
 | Thursday      |                                |   |
 | Friday        |                                |   |
 
-## Classroom 6
+## Classroom 1
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
