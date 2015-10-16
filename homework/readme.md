@@ -15,46 +15,22 @@
 
 # Week 2 Homework
 
-## Outcomes
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 1         | Tuesday                 | LinkedIn Connections |
-| Week 1 | Week 3 | Personality Test
-| Tuesday| Week 4 | What's my Brand? Worksheet|
-| Tuesday| Week 4 | Personal Outcomes Tracker|
-
-## Programming
-| Date Assigned | Due Date                          | Assignment|
-|---------------|--------------------------------|-----------|
-| Monday        | Due Wednesday                  | TimerJS |
-| Wednesday     | Due Friday                     | PixartJS |
+| Week 1         | Tuesday                 | LinkedIn Connections(outcomes) |
+| Monday        | Due Wednesday @0900                 | TimerJS |
+| Wednesday     | Due Friday @0900                    | PixartJS |
 
 # Week 3 Homework
-## Outcomes
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 1 | Tuesday | Personality Test
-| Week 2 | Week 4 | What's My Brand? Worksheet|
-| Week 2 | Week 4 | Personal Outcomes Tracker|
-| Tuesday| Week 6 | Building Your Resume Worksheet |
-
-## Programming
-| Date Assigned | Due Date                          | Assignment|
-|---------------|--------------------------------|-----------|
-| Thursday        | Due Friday                  | Deck o' Cards/Highcard |
+| Week 1 | Tuesday | Personality Test (outcomes)
+| Thursday        | Due Friday @0900                 | Deck o' Cards/Highcard |
 
 # Week 4 Homework
-## Outcomes
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 1         | Tuesday                 | LinkedIn Connections |
-| Week 2 | Tuesday | What's my Brand? Worksheet|
-| Week 2 | Tuesday | Personal Outcomes Tracker|
-|Tuesday | Week 5 | Brand Statement Rough Draft/Peer Review Matrix |
-| Week 3| Week 6 | Building Your Resume Worksheet |
-
-## Programming
-| Date Assigned | Due Date                          | Assignment|
-|---------------|--------------------------------|-----------|
-| Monday       | Due Wednesday                | Landlord - Backend |
-| Wednesday       | Due Friday                | Landlord - Frontend |
+| Week 2 | Tuesday | What's my Brand? Worksheet(outcomes)|
+| Week 2 | Tuesday | Personal Outcomes Tracker(outcomes)|
+| Monday       | Due Wednesday @0900               | Landlord - Backend |
+| Wednesday       | Due Friday @0900               | Landlord - Frontend |
