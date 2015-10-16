@@ -20,6 +20,15 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
 - Think about the goal for your site and what you want your users to do (read about your story, look at your work/code/writing, contact you). Guide them to taking those actions by making them prominent / easy to find.
 - Potential employers will probably view your source code, so be sure to use proper indentation and organize your code.
 
+## Example Portfolios
+
+- [Randy Latz](http://rmlatz.com/)
+- [Clare Politano](http://cpolitano.github.io/portfolio/)
+- [Erica Geiser](http://ericageiser.com/#/profile)
+- [Andy Kim](http://andrewsunglaekim.github.io/)
+- [Jesse Shawl](https://jesse.sh/awl)
+
+
 ## Bonus!
 - Create an alternate visual "theme" for your site, and create a button that uses Javascript to toggle between themes.
   - Examples:
@@ -28,3 +37,7 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
 - Deploy your site to Github Pages
   - [Github Pages](pages.github.com)
   - [Github Pages Tutorial](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+- Purchase a domain name
+  - [namecheap](www.namecheap.com)
+  - [iwantmyname](https://iwantmyname.com/)
+  - [Custom Domains and Github](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/)
