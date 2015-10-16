@@ -3,7 +3,7 @@
 ## General Guidelines
 - You will have 2 completion checks. One on wednesday and one on Friday.
 - You will be given one or more assignments to finish by wednesday/friday at 9:00am.
-- Means pull request should be in by 9.
+- Means pull request should be in by 9. [Homework submission process](https://github.com/ga-dc/wdi7/blob/master/homework/submission-process.md)
 - The homework that was turned in by Wednesday will be checked for completion only. That being said, if you ask for specific feedback for these homeworks, your squad instructor can provide some on a per case basis.
 - The homework that was turned in by Friday will be graded for completion and in addition your squad instructor will provide some meaningful feedback.
 
