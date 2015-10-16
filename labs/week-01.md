@@ -16,7 +16,7 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
 - 4:00 - 5:00 Squad check-in (TBD)
 
 ## Some Things To Consider
-- Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy with tons of jQuery plugins, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
+- Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
 - Think about the goal for your site and what you want your users to do (read about your story, look at your work/code/writing, contact you). Guide them to taking those actions by making them prominent / easy to find.
 - Potential employers will probably view your source code, so be sure to use proper indentation and organize your code.
 
