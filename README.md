@@ -5,7 +5,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 ## GA
 
 - [Curriculum](https://github.com/ga-dc/curriculum)
-- [Outcomes Roadmap](https://docs.google.com/document/d/1ZZO9JNx5NLSO5BD7IY0m2ApyiaWfaZWSgVKGEckGJoY/edit?usp=sharing)
+- [Outcomes Roadmap](https://docs.google.com/document/d/1F5wVNmqpGfB1TNUxFLgLjYs_c8167VNJFx0msSxo-G8/edit)
 
 ## Holidays
 
