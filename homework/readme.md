@@ -18,8 +18,8 @@
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
 | Week 1         | Tuesday                 | LinkedIn Connections(outcomes) |
-| Monday        | Due Wednesday @0900                 | TimerJS |
-| Wednesday     | Due Friday @0900                    | PixartJS |
+| Monday        | Due Wednesday @0900                 | [TimerJS](https://github.com/ga-dc/timer_js) |
+| Wednesday     | Due Friday @0900                    | [PixartJS](https://github.com/ga-dc/pixart_js) |
 
 # Week 3 Homework
 | Date Assigned | Due Date                          | Assignment|
