@@ -20,9 +20,9 @@
 
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 1         | Tuesday                 | LinkedIn Connections(outcomes) |
-| Monday        | Due Wednesday @0900                 | [TimerJS](https://github.com/ga-dc/timer_js) |
-| Wednesday     | Due Friday @0900                    | [PixartJS](https://github.com/ga-dc/pixart_js) |
+| Week 1         | Tuesday                 | LinkedIn Connections (outcomes) |
+| Monday        | Due Wednesday @0900                 | [Timer JS](https://github.com/ga-dc/timer_js) |
+| Wednesday     | Due Friday @0900                    | [Pixart JS](https://github.com/ga-dc/pixart_js) |
 
 # Week 3 Homework
 | Date Assigned | Due Date                          | Assignment|
@@ -33,7 +33,7 @@
 # Week 4 Homework
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 2 | Tuesday | What's my Brand? Worksheet(outcomes)|
-| Week 2 | Tuesday | Personal Outcomes Tracker(outcomes)|
+| Week 2 | Tuesday | What's my Brand? Worksheet (outcomes)|
+| Week 2 | Tuesday | Personal Outcomes Tracker (outcomes)|
 | Monday       | Due Wednesday @0900               | Landlord - Backend |
 | Wednesday       | Due Friday @0900               | Landlord - Frontend |
