@@ -15,7 +15,9 @@
 - There will be roughly 2 hours of homework per night. Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
 - These are the expectations that *we*, your instructors, set for you. But ultimately *you* decide is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments.
 - General Assembly's headquarters in New York publishes a handbook of course guidelines, in which they state that 80% of homework must be completed by all students at minimum. However, they do not define any consequences for not meeting this benchmark. Therefore, the consequences as set by GA's DC branch are that slipping below 80% is a "red flag" to the staff and instructors in terms of student integrity and work ethic, and the staff and/or instructors will meet with the student to develop a personal improvement plan.
+
 # Week 1 Homework
+
 
 ## Classroom 4
 
