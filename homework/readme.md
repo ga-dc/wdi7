@@ -15,3 +15,55 @@
 - There will be roughly 2 hours of homework per night. Homework will take more time for some, and less time for others. It is up to you how you want to partition your time for a given exercise.
 - These are the expectations that *we*, your instructors, set for you. But ultimately *you* decide is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments.
 - General Assembly's headquarters in New York publishes a handbook of course guidelines, in which they state that 80% of homework must be completed by all students at minimum. However, they do not define any consequences for not meeting this benchmark. Therefore, the consequences as set by GA's DC branch are that slipping below 80% is a "red flag" to the staff and instructors in terms of student integrity and work ethic, and the staff and/or instructors will meet with the student to develop a personal improvement plan.
+# Week 1 Homework
+
+## Classroom 4
+
+| Date Assigned | Notes                          | Assignment |
+|---------------|--------------------------------|------------|
+| Monday        | Due Wednesday                  | HTML [HTML Resume, Part 1](https://github.com/ga-dc/html_resume) |
+| Tuesday       | Due Wednesday                  | Command Line [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer), Git [HTML Resume Part 2 + Clone Curriculum](https://github.com/ga-dc/curriculum/tree/master/01-front-end-fundamentals/git)  |
+| Wednesday     | Due Friday                     | CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio), JS [Choose Your Adventure](https://github.com/ga-dc/choose_your_own_adventure_js)   |
+| Thursday      | Due Friday                    | JS [Calculator](https://github.com/ga-dc/js-calculator)  |
+| Friday        | Due Monday                  |  JS [Fellowship](https://github.com/ga-dc/fellowship)  |
+
+## Classroom 5
+
+| Date Assigned | Notes                          | Assignment |
+|---------------|--------------------------------|------------|
+| Monday        | Due Wednesday                  | HTML [HTML Resume, Part 1](https://github.com/ga-dc/html_resume)|
+| Tuesday       | Due Wednesday                  | Command Line [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer), Git [HTML Resume Part 2 + Clone Curriculum](https://github.com/ga-dc/curriculum/tree/master/01-front-end-fundamentals/git) |
+| Wednesday     | Due Friday                     |  CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio), JS [Choose Your Adventure](https://github.com/ga-dc/choose_your_own_adventure_js)  |
+| Thursday      | Due Friday                      | JS [Calculator](https://github.com/ga-dc/js-calculator)  |
+| Friday        | Due Monday                   | JS [Fellowship](https://github.com/ga-dc/fellowship)  | 
+
+## Classroom 1
+
+| Date Assigned | Notes                          | Assignment |
+|---------------|--------------------------------|------------|
+| Monday        | Due Wednesday | Command Line [Kitchen Organizer](https://github.com/ga-dc/kitchen_organizer)  |
+| Tuesday       | Due Wednesday | HTML [HTML Resume, Part 1](https://github.com/ga-dc/html_resume), Git [HTML Resume Part 2 + Clone Curriculum](https://github.com/ga-dc/curriculum/tree/master/01-front-end-fundamentals/git) |   |
+| Wednesday     | Due Friday                     | JS [Calculator](https://github.com/ga-dc/js-calculator), JS [Choose Your Adventure](https://github.com/ga-dc/choose_your_own_adventure_js)   |
+| Thursday      | Due Friday                               | CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio) |
+| Friday        | Due Monday                              | JS [Fellowship](https://github.com/ga-dc/fellowship) |
+# Week 2 Homework
+
+| Date Assigned | Due Date                          | Assignment|
+|---------------|--------------------------------|-----------|
+| Week 1         | Tuesday                 | LinkedIn Connections (outcomes) |
+| Monday        | Due Wednesday @0900                 | [Timer JS](https://github.com/ga-dc/timer_js) |
+| Wednesday     | Due Friday @0900                    | [Pixart JS](https://github.com/ga-dc/pixart_js) |
+
+# Week 3 Homework
+| Date Assigned | Due Date                          | Assignment|
+|---------------|--------------------------------|-----------|
+| Week 1 | Tuesday | Personality Test (outcomes)
+| Thursday        | Due Friday @0900                 | Deck o' Cards/Highcard |
+
+# Week 4 Homework
+| Date Assigned | Due Date                          | Assignment|
+|---------------|--------------------------------|-----------|
+| Week 2 | Tuesday | What's my Brand? Worksheet (outcomes)|
+| Week 2 | Tuesday | Personal Outcomes Tracker (outcomes)|
+| Monday       | Due Wednesday @0900               | Landlord - Backend |
+| Wednesday       | Due Friday @0900               | Landlord - Frontend |
