@@ -22,7 +22,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 01: Word Squeeze](https://github.com/ga-dc/word_squeeze)
 - [Week 02: The Walker](https://github.com/ga-dc/the_walker)
 
-## [Labs]
+## Labs
 
 - [Week 01: Portfolio](https://github.com/ga-dc/portfolio_part_1)
 - [Week 02: Callback-a-palooza (optional)](https://github.com/ga-dc/callback-a-palooza)
