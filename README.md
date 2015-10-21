@@ -14,12 +14,10 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 
 ## Mini Lessons
 
-- [Week 01: Atom](https://github.com/ga-dc/mini-lessons/atom/readme.md)
+- [Week 01: Atom](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/atom_basics)
+- [Week 02: Terminal Clinic](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/terminal_clinic)
 
 ## Morning Exercises
 
-- [Week 01](https://github.com/ga-dc/???)
-
-## Quizzes
-
-- [Week 01]()
+- [Week 01: Word Squeeze](https://github.com/ga-dc/word_squeeze)
+- [Week 02: The Walker](https://github.com/ga-dc/the_walker)
