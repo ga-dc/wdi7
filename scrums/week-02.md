@@ -6,7 +6,9 @@
   - how did it change how you coded
   - what strategy did you take
 - how was code review
-  - what did you get out of it
+  - what did you get out of it?
+  - what did you look for while doing a code review?
+  - what type of feedback was most helpful? least helpful?
 - highs/lows
 - what from the lab can you take to project 1?
 
@@ -20,6 +22,7 @@
 ### Time Management
 - what does your schedule look like from monday to wednesday.
 - what different things should you finish by which times?
+  - more importantly, how can we break down this big problem into smaller component parts?
 
 ### One on ones
 - this is a time for us, as instructors, to get a better idea of your understanding of course content.
