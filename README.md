@@ -12,6 +12,10 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - Thanksgiving: Wednesday, November 25 to Friday, November 27
 - Winter Break: Saturday, December 19 to Sunday, January 3rd
 
+## Projects
+
+- [Project 1](https://github.com/ga-dc/project1)
+
 ## Mini Lessons
 
 - [Week 01: Atom](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/atom_basics)
