@@ -12,10 +12,10 @@ What does the following selector do?
 
 `ul.dropdown > li`
 
-Selects all li's which are directly inside a ul of class dropdown (children)
-Selects all li's which are anywhere inside a ul of class dropdown (any ancestor)
-Selects all ul's of class dropdown, as well as the children elements that are li's
-Selects all ul's of class dropdown, only if their children are exclusively li's
+* Selects all li's which are directly inside a ul of class dropdown (children)
+* Selects all li's which are anywhere inside a ul of class dropdown (any ancestor)
+* Selects all ul's of class dropdown, as well as the children elements that are li's
+* Selects all ul's of class dropdown, only if their children are exclusively li's
 
 ## Scope/Context/Closures
 
