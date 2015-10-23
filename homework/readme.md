@@ -58,7 +58,7 @@
 | Week 1         | Tuesday                 | LinkedIn Connections (outcomes) |
 | Monday        | Due Wednesday @0900                 | [Timer JS](https://github.com/ga-dc/timer_js) |
 | Wednesday     | Due Friday @0900                    | [Pixart JS](https://github.com/ga-dc/pixart_js) |
-| Friday        | Due Monday @0900                    | 5 User Stories for [Project 1](https://github.com/ga-dc/project1) |
+| Friday        | Due Monday @0900                    | [Quiz 2](https://github.com/ga-dc/wdi7-quiz2)5 User Stories for [Project 1](https://github.com/ga-dc/project1) |
 
 # Week 3 Homework
 | Date Assigned | Due Date                          | Assignment|
