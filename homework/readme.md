@@ -49,6 +49,8 @@
 | Thursday      | Due Friday                               | CSS [Hippy Portfolio](https://github.com/ga-dc/hippy-portfolio) |
 | Friday        | Due Monday                              | JS [Fellowship](https://github.com/ga-dc/fellowship) |
 
+-----
+
 # Week 2 Homework
 
 | Date Assigned | Due Date                          | Assignment|
@@ -56,6 +58,7 @@
 | Week 1         | Tuesday                 | LinkedIn Connections (outcomes) |
 | Monday        | Due Wednesday @0900                 | [Timer JS](https://github.com/ga-dc/timer_js) |
 | Wednesday     | Due Friday @0900                    | [Pixart JS](https://github.com/ga-dc/pixart_js) |
+| Friday        | Due Monday @0900                    | 5 User Stories for [Tic-Tac-Toe](https://github.com/ga-dc/tic_tac_toe) |
 
 # Week 3 Homework
 | Date Assigned | Due Date                          | Assignment|
