@@ -16,6 +16,7 @@ ___ happened instead.
 [Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
 - *Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 3 hours without any updates.
+- The instructors will usually close issues that haven't had any activity for an hour. If your issue gets closed, but there's more you want to continue it, just create a new issue containing a link to the old one.
 - Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
 - If the issue is complicated enough, we'll come find you in person to work through the problem after looking at the Github issue.
 
