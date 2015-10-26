@@ -19,6 +19,7 @@ ___ happened instead.
 - Open issues will usually be closed by the instructors after **one hour** of no activity.
 - Issues can only be reopened by instructors. If your issue gets closed, please create a **new** issue containing a link to the old one (if applicable).
 - If the issue is complicated enough, we'll come find you in person to work through the problem -- but only after looking at the Github issue!
+- As with Slack questions, Github issues will not be responded to **after 6:00 pm**.
 
 ## Why?
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
