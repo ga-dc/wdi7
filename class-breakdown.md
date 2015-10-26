@@ -12,10 +12,10 @@ The names listed below are your squad leaders.
 
 |  Classroom 1 | Classroom 5 | Classroom 4 |
 |---|---|---|
-| Adam, Adrian, Andy | Nick, Matt, John | Robin, Jesse, Erica |
+| John, Adrian, Andy | Nick, Robin, Erica | Matt, Jesse, Adam |
 
 ## Unit 3 (Weeks 7 and 8)
 
 |  Classroom 1 | Classroom 5 | Classroom 4 |
 |---|---|---|
-| Adam, Jesse, Andy | Nick, Adrian, John | Robin, Matt, Erica |
+| Adam, Andy, Robin | Nick, John, Jesse | Matt, Adrian, Erica |
