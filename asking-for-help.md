@@ -1,7 +1,7 @@
 # How to Ask Questions
 
 ## TLDR (Too Long; Didn't Read)
-The instructors won't be answering questions in-person this week. Instead, we'll be responding to Github issues on the repository during business hours.
+This week, rather than ask questions in-person, we ask that you instead submit Github issues on the repository.
 
 Issues should follow this format:
 ```
@@ -20,6 +20,8 @@ ___ happened instead.
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
 
 Additionally, having to articulate the question into words is very helpful in understanding the problem. Some times, simply articulating the question gives you the answer!
+
+Finally, it lets the instructors spread around their bandwidth better!
 
 ## How?
 Below is a guide for the information that must be included when submitting an issue. It is expected that you will try to debug/solve an issue prior to submitting a request for help on Github.
