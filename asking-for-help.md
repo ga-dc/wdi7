@@ -3,12 +3,16 @@
 ## TLDR (Too Long; Didn't Read)
 This week, rather than ask questions in-person, we ask that you instead submit Github issues on the repository.
 
+The title of the issue should be a brief description of your problem. For example, "Undefined method error when trying to delete something from an array"
+
 Issues should follow this format:
 ```
 I tried ___.
 I expected ___ to happen.
 ___ happened instead.
 ```
+
+**Please** include the full text of any error messages you're receiving!
 
 [Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
