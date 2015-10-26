@@ -1,6 +1,5 @@
 # How to Ask Questions
 
-## TLDR (Too Long; Didn't Read)
 This week, rather than ask questions in-person, we ask that you instead submit Github issues on the repository.
 
 The title of the issue should be a brief description of your problem. For example, "Undefined method error when trying to delete something from an array"
@@ -16,9 +15,9 @@ ___ happened instead.
 
 [Just click this handy link to create an issue with these blanks inserted for you!](https://github.com/ga-dc/project1/issues/new?title=issue+with+____&body=I+tried+_____.+I+expected+_____+to+happen._____+happened+instead.)
 
-*Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 3 hours without any updates.
-
-**Note:** Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
+- *Please close your issues when you've received a satisfactory answer*, and let us know what the solution was! We'll close issues that have gone more than 3 hours without any updates.
+- Issues can only be reopened by instructors. Therefore, should your issue get closed, please create a *new* issue, and if it's applicable to your previous issue, just include a link to the previous issue.
+- If the issue is complicated enough, we'll come find you in person to work through the problem after looking at the Github issue.
 
 ## Why?
 Many reasons! The biggest is that programmers often have the same question. This way, students with the same question can find their answer in one place.
@@ -46,11 +45,6 @@ Give information about what you have done to solve the problem. Including but no
 
 ## Can students respond to other students' issues?
 **YES!**
-
-## So when *should* I seek out an instructor in-person?
-When you've submitted an issue, and have spent more than 15 minutes trying to solve the problem yourself, 15 minutes Googling, and 15 minutes asking other students for help (in-person, on Slack, etc).
-
-We really want to talk to you when it's an emotional issue, more than a technical issue.
 
 ## All Other Help
 
