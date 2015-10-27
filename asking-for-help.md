@@ -27,7 +27,7 @@ ___ happened instead.
       font-family: "Comic Sans MS";
     }
     &#96;&#96;&#96;</code></pre>
-  - The backtics *must* be on a line by themselves. For example, this won't work:
+  The backtics *must* be on a line by themselves. For example, this won't work:
     <pre><code>&#96;&#96;&#96;h1{
       color:red;
     }&#96;&#96;&#96;
