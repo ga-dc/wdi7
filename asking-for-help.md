@@ -41,21 +41,17 @@ Additionally, having to articulate the question into words is very helpful in un
 Finally, it lets the instructors spread around their bandwidth better!
 
 ## How?
-Below is a guide for the information that must be included when submitting an issue. It is expected that you will try to debug/solve an issue prior to submitting a request for help on Github.
-
-## Context
-When submitting an issue provide some context as to what the problem is. This includes but is not limited to:
-- What User Story you are currently working on
-- What you are trying to do (in terms of code)
-- Detailed description of the bug or error
-- Relevant code/files/errors (and screenshots if applicable)
-- Gems and/or other technologies being used (if applicable)
-
-## What have you tried?
-Give information about what you have done to solve the problem. Including but not limited to:
-- Documentation you have looked at
-- Steps you have taken to solve the problem
-- Resources you have used
+When submitting an issue provide some context as to:
+- What's the problem?
+    - What User Story you are currently working on
+    - What you are trying to do (in terms of code)
+    - Detailed description of the bug or error
+    - Relevant code/files/errors (and screenshots if applicable)
+    - Gems and/or other technologies being used (if applicable)
+- What have you tried?
+    - Documentation you have looked at
+    - Steps you have taken to solve the problem
+    - Resources you have used
 
 ## Can students respond to other students' issues?
 **YES!**
