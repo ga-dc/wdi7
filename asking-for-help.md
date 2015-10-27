@@ -1,4 +1,4 @@
-# How to Ask Questions
+# Asking For Help
 
 This week, rather than ask questions in-person, we ask that you instead submit Github issues on the repository.
 
