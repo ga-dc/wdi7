@@ -71,5 +71,5 @@
 |---------------|--------------------------------|-----------|
 | Week 2 | Tuesday | What's my Brand? Worksheet (outcomes)|
 | Week 2 | Tuesday | Personal Outcomes Tracker (outcomes)|
-| Monday       | Due Wednesday @0900               | Landlord - Backend |
-| Wednesday       | Due Friday @0900               | Landlord - Frontend |
+| Monday       | Due Wednesday @0900               | Landlord - Check-in |
+| Wednesday       | Due Friday @0900               | Landlord - Final |
