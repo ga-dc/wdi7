@@ -64,7 +64,7 @@
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
 | Week 1 | Tuesday | Personality Test (outcomes)
-| Thursday        | Due Friday @0900                 | Deck o' Cards/Highcard |
+| Thursday        | Due Friday @0900                 | [High Card](https://github.com/ga-dc/high_card) |
 
 # Week 4 Homework
 | Date Assigned | Due Date                          | Assignment|
