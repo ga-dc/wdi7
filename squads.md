@@ -10,7 +10,7 @@
 - Chrystal Banks
 - Becky Beauchamp
 
-## Adrian
+## Adrian (Full Squid `<div>`elopers)
 
 - Jordan Brauner
 - Tory Burgett
