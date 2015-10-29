@@ -8,7 +8,7 @@ The names listed below are your squad leaders.
 |---|---|---|
 | Adam, Adrian, Erica | Nick, Matt, Andy | Robin, Jesse, John |
 
-## Unit 2 (Weeks 4 and 5)
+## Unit 2 (Weeks 3.5, 4, and 5)
 
 The names listed below are your squad leaders.
 
