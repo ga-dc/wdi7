@@ -71,5 +71,5 @@
 |---------------|--------------------------------|-----------|
 | Week 2 | Tuesday | What's my Brand? Worksheet (outcomes)|
 | Week 2 | Tuesday | Personal Outcomes Tracker (outcomes)|
-| Monday       | Due Wednesday @0900               | Landlord - Check-in |
-| Wednesday       | Due Friday @0900               | Landlord - Final |
+| Monday       | Due Wednesday @0900               | [Landlord - Check-in](https://github.com/ga-dc/landlord) |
+| Wednesday       | Due Friday @0900               | [Landlord - Final](https://github.com/ga-dc/landlord) |
