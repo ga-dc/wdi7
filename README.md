@@ -20,18 +20,22 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 
 - [Week 01: Atom](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/atom_basics)
 - [Week 02: Terminal Clinic](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/terminal_clinic)
+- [Week 03: D3](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/d3)
+- [Week 04: Troubleshooting Sinatra](https://github.com/ga-dc/curriculum/tree/master/04-ruby-mvc-sinatra/sinatra-troubleshooting)
 
 ## Morning Exercises
 
 - [Week 01: Word Squeeze](https://github.com/ga-dc/word_squeeze)
 - [Week 02: The Walker](https://github.com/ga-dc/the_walker)
 - [Week 03: Luhn Algorithm](https://github.com/ga-dc/luhn_algorithm)
+- [Week 04: Romanize](https://github.com/ga-dc/romanize)
 
 ## Labs
 
 - [Week 01: Portfolio](https://github.com/ga-dc/portfolio_part_1)
 - [Week 02: Callback-a-palooza (optional)](https://github.com/ga-dc/callback-a-palooza)
-- [Weel 02: Tic Tac Toe](https://github.com/ga-dc/tic_tac_toe)
+- [Week 02: Tic Tac Toe](https://github.com/ga-dc/tic_tac_toe)
+- [Week 04: Tunr](https://github.com/ga-dc/tunr_sinatra/tree/lab-starter)
 
 ## [Homework](https://github.com/ga-dc/wdi7/tree/master/homework)
 
