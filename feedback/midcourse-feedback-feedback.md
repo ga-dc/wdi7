@@ -50,7 +50,6 @@
 ## Nick
 
 - Try different teaching approaches more
-- Enjoy delivering lessons more
 - Confidence and comfort in front of the room
 - Cold call more
 - Move faster
