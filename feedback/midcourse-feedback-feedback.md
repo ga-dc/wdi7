@@ -81,5 +81,3 @@
 - More cold-calling
   - Identify key words to use in an answer
   - Cold-call on a table instead of one person
-
-## Outcomes
