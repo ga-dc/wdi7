@@ -63,13 +63,13 @@
 # Week 3 Homework
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 1 | Tuesday | Personality Test (outcomes)
+| Week 1 | Tuesday | [Personality Test (outcomes)](http://www.16personalities.com/free-personality-test)
 | Thursday        | Due Friday @0900                 | [High Card](https://github.com/ga-dc/high_card) |
 
 # Week 4 Homework
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
-| Week 2 | Tuesday | What's my Brand? Worksheet (outcomes)|
-| Week 2 | Tuesday | Personal Outcomes Tracker (outcomes)|
+| Week 2 | Tuesday | [What's my Brand? Worksheet (outcomes)](https://drive.google.com/file/d/0B0cuNYi34jyuNUtzLXU5MUJpYmc/view)|
+| Week 2 | Tuesday | [Personal Outcomes Tracker w/ at least three network opportunities documented (outcomes)](https://docs.google.com/spreadsheets/d/1AMxpanID3G_TVVv3ouPufmmlP7F2cmsZHCbThCAIVPU/edit#gid=1789607757)|
 | Monday       | Due Wednesday @0900               | [Landlord - Check-in](https://github.com/ga-dc/landlord) |
 | Wednesday       | Due Friday @0900               | [Landlord - Final](https://github.com/ga-dc/landlord) |
