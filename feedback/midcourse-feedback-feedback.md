@@ -60,9 +60,10 @@
 ## Matt
 
 - Pacing
-- Slow down
-- Breaks
-- Faster at begining, to leave time at end
+  - Work on following lesson timing
+    - Faster at beginning, to leave time at end
+    - Don't talk faster to make up for time, cut scope
+  - Ensure time for rest.  Breaks!
 - Keep doing what you are doing during one-on-ones
 - Clarify questions first
 
@@ -73,10 +74,10 @@
 - Differing levels of HW assignments
   - When possible, we will add a separate hints.md file with suggested getting started steps and a more structured approach to the assignment.
 - Cheatsheet / glossary / reference
-  - Crowdsource and use each other to accomplish this! 
-    - Our team uses hackpad - hackpad.com 
+  - Crowdsource and use each other to accomplish this!
+    - Our team uses hackpad - hackpad.com
 - More real-world examples
-  - We have added this to our internal lesson-planning checklist. More soon! 
+  - We have added this to our internal lesson-planning checklist. More soon!
 - More cold-calling
   - Identify key words to use in an answer
   - Cold-call on a table instead of one person
