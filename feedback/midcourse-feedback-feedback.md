@@ -28,9 +28,9 @@
 
 ## Andy
 
-- Use more politically correct examples
+- Use more appropriate humor
 - Continue cold calling
-- maintain the track in a lesson plan, try not to go deep into student questions, give answers that aren't too tangential
+- Maintain the track in a lesson plan, try not to go deep into student questions, give answers that aren't too tangential
 
 ## John
 
@@ -53,9 +53,9 @@
 - Enjoy delivering lessons more
 - Confidence and comfort in front of the room
 - Cold call more
-- move faster
-- business time
-- deflect some questions to other instructors
+- Move faster
+- Be less business-oriented during lesson delivery
+- Deflect some questions to other instructors
 
 ## Matt
 
