@@ -73,4 +73,4 @@
 | Week 2 | Tuesday | [Personal Outcomes Tracker w/ at least three network opportunities documented (outcomes)](https://docs.google.com/spreadsheets/d/1AMxpanID3G_TVVv3ouPufmmlP7F2cmsZHCbThCAIVPU/edit#gid=1789607757)|
 | Monday       | Due Wednesday @0900               | [Landlord - Check-in](https://github.com/ga-dc/landlord) |
 | Wednesday    | Due Friday @0900               | [Landlord - Final](https://github.com/ga-dc/landlord) |
-| Friday       | Due Monday @0900               | [Quiz 3](https://github.com/ga-dc/wdi7-quiz3) AND then [Chill out](https://github.com/ga-dc/chill_out) |
+| Friday       | Due Monday @0900               | [Quiz 3](https://github.com/ga-dc/wdi7-quiz3), make sure to timebox it, AND then [Chill out](https://github.com/ga-dc/chill_out) |
