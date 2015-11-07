@@ -74,3 +74,10 @@
 | Monday       | Due Wednesday @0900               | [Landlord - Check-in](https://github.com/ga-dc/landlord) |
 | Wednesday    | Due Friday @0900               | [Landlord - Final](https://github.com/ga-dc/landlord) |
 | Friday       | Due Monday @0900               | [Quiz 3](https://github.com/ga-dc/wdi7-quiz3), make sure to timebox it, AND then [Chill out](https://github.com/ga-dc/chill_out) |
+
+# Week 5 Homework
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Monday | Due Wednesday @0900 | [Hogwarts](https://github.com/ga-dc/hogwarts_rails) |
+| Wednesday | Due Friday @0900 | Port [Landlord](https://github.com/ga-dc/landlord) to Rails and deploy it. |
+| Friday | Due Monday @0900 | [Quiz 4](https://github.com/ga-dc/wdi7-quiz4) |
