@@ -2,15 +2,15 @@
 
 | Link | Answer Key Link |
 |------|-----------------|
-| [Week 1](https://docs.google.com/forms/d/10kEh1ETdTwsn7_f9RPQXYmOw3E9VmqHAS8tl6KTsnCo/viewform) | [Answers](quiz1_answers.md) |
-| [Week 2](https://github.com/ga-dc/wdi7-quiz2) | [Answers (not up yet)](quiz2_answers.md) |
-| [Week 3]() | [Answers](quiz3_answers.md) |
-| [Week 4]() | [Answers](quiz4_answers.md) |
-| [Week 5]() | [Answers](quiz5_answers.md) |
-| [Week 6]() | [Answers](quiz6_answers.md) |
-| [Week 7]() | [Answers](quiz7_answers.md) |
-| [Week 8]() | [Answers](quiz8_answers.md) |
-| [Week 9]() | [Answers](quiz9_answers.md) |
-| [Week 10]() | [Answers](quiz10_answers.md) |
-| [Week 11]() | [Answers](quiz11_answers.md) |
-| [Week 12]() | [Answers](quiz12_answers.md) |
+| [Week 1](https://docs.google.com/forms/d/10kEh1ETdTwsn7_f9RPQXYmOw3E9VmqHAS8tl6KTsnCo/viewform) | [Answers](https://gist.github.com/ebirving/fd67defa3bb113c33549) |
+| [Week 2](https://github.com/ga-dc/wdi7-quiz2) | [Answers](https://github.com/ga-dc/wdi7-quiz2/tree/solution) |
+| [Week 3](https://github.com/ga-dc/wdi7-quiz3) | [Answers](https://github.com/ga-dc/wdi7-quiz3/tree/solution) |
+| [Week 4](https://github.com/ga-dc/wdi7-quiz4) | [Answers](https://github.com/ga-dc/wdi7-quiz4/tree/solution) |
+| [Week 5](https://github.com/ga-dc/wdi7-quiz5) | [Answers](https://github.com/ga-dc/wdi7-quiz5/tree/solution) |
+| [Week 6](https://github.com/ga-dc/wdi7-quiz6) | [Answers](https://github.com/ga-dc/wdi7-quiz6/tree/solution) |
+| [Week 7](https://github.com/ga-dc/wdi7-quiz7) | [Answers](https://github.com/ga-dc/wdi7-quiz7/tree/solution) |
+| [Week 8](https://github.com/ga-dc/wdi7-quiz8) | [Answers](https://github.com/ga-dc/wdi7-quiz8/tree/solution) |
+| [Week 9](https://github.com/ga-dc/wdi7-quiz9) | [Answers](https://github.com/ga-dc/wdi7-quiz9/tree/solution) |
+| [Week 10](https://github.com/ga-dc/wdi7-quiz10) | [Answers](https://github.com/ga-dc/wdi7-quiz10/tree/solution) |
+| [Week 11](https://github.com/ga-dc/wdi7-quiz11) | [Answers](https://github.com/ga-dc/wdi7-quiz11/tree/solution) |
+| [Week 12](https://github.com/ga-dc/wdi7-quiz12) | [Answers](https://github.com/ga-dc/wdi7-quiz12/tree/solution) |

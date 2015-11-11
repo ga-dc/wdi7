@@ -16,10 +16,20 @@
 - These are the expectations that *we*, your instructors, set for you. But ultimately *you* decide is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments.
 - General Assembly's headquarters in New York publishes a handbook of course guidelines, in which they state that 80% of homework must be completed by all students at minimum. However, they do not define any consequences for not meeting this benchmark. Therefore, the consequences as set by GA's DC branch are that slipping below 80% is a "red flag" to the staff and instructors in terms of student integrity and work ethic, and the staff and/or instructors will meet with the student to develop a personal improvement plan.
 
-# Week 1 Homework
+## This Week's Homework: Week 5
 
+## Week 5 Homework
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Monday | Due Wednesday @0900 | [Scribble](https://github.com/ga-dc/scribble):  Basic models, migratons, views, controllers, and routes |
+| Wednesday | Due Friday @0900 | [Scribble](https://github.com/ga-dc/scribble): Nested routes, form/link helpers, and deploy to Heroku |
+| Friday | Due Monday @0900 | [Quiz 4](https://github.com/ga-dc/wdi7-quiz4) |
 
-## Classroom 4
+# Past Assignments
+
+## Week 1 Homework
+
+### Classroom 4
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
@@ -29,7 +39,7 @@
 | Thursday      | Due Friday                    | JS [Calculator](https://github.com/ga-dc/js-calculator)  |
 | Friday        | Due Monday                  |  JS [Fellowship](https://github.com/ga-dc/fellowship)  |
 
-## Classroom 5
+### Classroom 5
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
@@ -39,7 +49,7 @@
 | Thursday      | Due Friday                      | JS [Calculator](https://github.com/ga-dc/js-calculator)  |
 | Friday        | Due Monday                   | JS [Fellowship](https://github.com/ga-dc/fellowship)  |
 
-## Classroom 1
+### Classroom 1
 
 | Date Assigned | Notes                          | Assignment |
 |---------------|--------------------------------|------------|
@@ -51,7 +61,7 @@
 
 -----
 
-# Week 2 Homework
+## Week 2 Homework
 
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
@@ -60,13 +70,13 @@
 | Wednesday     | Due Friday @0900                    | [Pixart JS](https://github.com/ga-dc/pixart_js) |
 | Friday        | Due Monday @0900                    | [Quiz 2](https://github.com/ga-dc/wdi7-quiz2) / 5 User Stories for [Project 1](https://github.com/ga-dc/project1) |
 
-# Week 3 Homework
+## Week 3 Homework
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
 | Week 1 | Tuesday | [Personality Test (outcomes)](http://www.16personalities.com/free-personality-test)
 | Thursday        | Due Friday @0900                 | [High Card](https://github.com/ga-dc/high_card) |
 
-# Week 4 Homework
+## Week 4 Homework
 | Date Assigned | Due Date                          | Assignment|
 |---------------|--------------------------------|-----------|
 | Week 2 | Tuesday | [What's my Brand? Worksheet (outcomes)](https://drive.google.com/file/d/0B0cuNYi34jyuNUtzLXU5MUJpYmc/view)|
@@ -74,10 +84,3 @@
 | Monday       | Due Wednesday @0900               | [Landlord - Check-in](https://github.com/ga-dc/landlord) |
 | Wednesday    | Due Friday @0900               | [Landlord - Final](https://github.com/ga-dc/landlord) |
 | Friday       | Due Monday @0900               | [Quiz 3](https://github.com/ga-dc/wdi7-quiz3), make sure to timebox it, AND then [Chill out](https://github.com/ga-dc/chill_out) |
-
-# Week 5 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Monday | Due Wednesday @0900 | [Scribble](https://github.com/ga-dc/scribble):  Basic models, migratons, views, controllers, and routes | 
-| Wednesday | Due Friday @0900 | [Scribble](https://github.com/ga-dc/scribble): Nested routes, form/link helpers, and deploy to Heroku |
-| Friday | Due Monday @0900 | [Quiz 4](https://github.com/ga-dc/wdi7-quiz4) |
