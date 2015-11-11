@@ -1,4 +1,4 @@
-# Class Breakdown
+# Classroom Rotation
 
 ## Unit 1 (Weeks 1 and 2)
 
