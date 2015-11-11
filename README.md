@@ -22,6 +22,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 02: Terminal Clinic](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/terminal_clinic)
 - [Week 03: D3](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/d3)
 - [Week 04: Troubleshooting Sinatra](https://github.com/ga-dc/curriculum/tree/master/04-ruby-mvc-sinatra/sinatra-troubleshooting)
+- [Week 05: File Uploads](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws)
 
 ## Morning Exercises
 
@@ -29,6 +30,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 02: The Walker](https://github.com/ga-dc/the_walker)
 - [Week 03: Luhn Algorithm](https://github.com/ga-dc/luhn_algorithm)
 - [Week 04: Romanize](https://github.com/ga-dc/romanize)
+- [Week 05: The Tech Interview](https://github.com/ga-dc/the_tech_interview)
 
 ## Labs
 
