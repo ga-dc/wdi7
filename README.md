@@ -15,6 +15,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 ## Projects
 
 - [Project 1](https://github.com/ga-dc/project1)
+- [Project 2](https://github.com/ga-dc/project2)
 
 ## Mini Lessons
 
