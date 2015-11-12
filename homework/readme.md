@@ -8,7 +8,7 @@
 |  | Tuesday | [Draft of Brand Statement ](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=0)(Outcomes)|
 | Monday | Wednesday | [Scribble](https://github.com/ga-dc/scribble):  Basic models, migratons, views, controllers, and routes |
 | Wednesday | Friday | [Scribble](https://github.com/ga-dc/scribble): Nested routes, form/link helpers, and deploy to Heroku |
-| Friday | Monday | ERD, Wireframes, and User Stories for Project 2 |
+| Friday | Monday | [ERD, Wireframes, and User Stories for Project 2](https://github.com/ga-dc/project2/blob/master/evaluation.md) |
 
 ## Week 6 Homework
 ***Unless otherwise noted, homework is due at 9:00am***
