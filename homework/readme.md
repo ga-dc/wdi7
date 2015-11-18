@@ -1,22 +1,17 @@
 # Homework
 
-## Week 5 Homework
-***Unless otherwise noted, homework is due at 9:00am***
-
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-|  | Tuesday | [Draft of Brand Statement ](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=0)(Outcomes)|
-| Monday | Wednesday | [Scribble](https://github.com/ga-dc/scribble):  Basic models, migratons, views, controllers, and routes |
-| Wednesday | Friday | [Scribble](https://github.com/ga-dc/scribble): Nested routes, form/link helpers, and deploy to Heroku |
-| Friday | Monday | [ERD, Wireframes, and User Stories for Project 2](https://github.com/ga-dc/project2/blob/master/homework.md) |
-
 ## Week 6 Homework
 ***Unless otherwise noted, homework is due at 9:00am***
-
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
 |  | Tuesday | [Final Brand Statement](https://github.com/ga-dc/outcomes-brand-statement) (Outcomes) |
 |  | Tuesday | [Student Action Plan: Building Your Resume](https://github.com/ga-dc/outcomes-resume-worksheet) (Outcomes) |
+
+## Week 7 Homework
+***Unless otherwise noted, homework is due at 9:00am***
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Week 6 | Tuesday | [Draft of Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
@@ -34,11 +29,7 @@
 - These are the expectations that *we*, your instructors, set for you. But ultimately *you* decide is the best investment of your time and energy. Historically, the most successful students have completed most or all of the assignments.
 - General Assembly's headquarters in New York publishes a handbook of course guidelines, in which they state that 80% of homework must be completed by all students at minimum. However, they do not define any consequences for not meeting this benchmark. Therefore, the consequences as set by GA's DC branch are that slipping below 80% is a "red flag" to the staff and instructors in terms of student integrity and work ethic, and the staff and/or instructors will meet with the student to develop a personal improvement plan.
 
-<!-- ## Week 7 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Week 6 | Tuesday | [Draft of Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
-
+<!--
 ## Week 8 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|

@@ -57,3 +57,13 @@
 | Monday       | Due Wednesday @0900               | [Landlord - Check-in](https://github.com/ga-dc/landlord) |
 | Wednesday    | Due Friday @0900               | [Landlord - Final](https://github.com/ga-dc/landlord) |
 | Friday       | Due Monday @0900               | [Quiz 3](https://github.com/ga-dc/wdi7-quiz3), make sure to timebox it, AND then [Chill out](https://github.com/ga-dc/chill_out) |
+
+## Week 5 Homework
+***Unless otherwise noted, homework is due at 9:00am***
+
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+|  | Tuesday | [Draft of Brand Statement ](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=0)(Outcomes)|
+| Monday | Wednesday | [Scribble](https://github.com/ga-dc/scribble):  Basic models, migratons, views, controllers, and routes |
+| Wednesday | Friday | [Scribble](https://github.com/ga-dc/scribble): Nested routes, form/link helpers, and deploy to Heroku |
+| Friday | Monday | [ERD, Wireframes, and User Stories for Project 2](https://github.com/ga-dc/project2/blob/master/homework.md) |
