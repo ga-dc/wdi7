@@ -2,16 +2,19 @@
 
 ## Week 6 Homework
 ***Unless otherwise noted, homework is due at 9:00am***
+
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
 |  | Tuesday | [Final Brand Statement](https://github.com/ga-dc/outcomes-brand-statement) (Outcomes) |
 |  | Tuesday | [Student Action Plan: Building Your Resume](https://github.com/ga-dc/outcomes-resume-worksheet) (Outcomes) |
+| Friday | Monday | [Read EJS Chapter on Node](http://eloquentjavascript.net/20_node.html)|
 
 ## Week 7 Homework
 ***Unless otherwise noted, homework is due at 9:00am***
+
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Week 6 | Tuesday | [Draft of Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
+| Week 6 | Tuesday | [Draft of Resume](https://github.com/ga-dc/outcomes-resume) (Outcomes)|
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
