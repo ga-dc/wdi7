@@ -15,6 +15,7 @@
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
 | Week 6 | Tuesday | [Draft of Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=1038012474) (Outcomes)|
+| Monday 11/23 | Monday 11/30 | [Thanksgiving HW](https://github.com/ga-dc/thanksgiving-homework)|
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
