@@ -14,7 +14,7 @@
 
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Week 6 | Tuesday | [Draft of Resume](https://github.com/ga-dc/outcomes-resume) (Outcomes)|
+| Week 6 | Tuesday | [Draft of Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=1038012474) (Outcomes)|
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
