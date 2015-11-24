@@ -1,14 +1,14 @@
 # Feedback on Week 6 Feedback
 
-## Whole-Team Action Items
+## Action Items for All Instructors
 - Supporting instructors will now deliver all homework assignments to ensure all bases are covered with respect to what was delivered in class.
-- Not slacking during classrooms / lessons / outcomes programming unless it’s urgent.
-- Add 2 resources to the end of each lesson plan.
-- Meet with whichever instructor had the highest ratings on approachability and develop a plan with them.
+- Avoid Slacking students during lessons/programming unless it's urgent and/or directly related to the activity at hand.
+- Add 2 resources for further learning to the end of each lesson plan.
+- Meet with whichever instructor had the highest ratings on approachability and develop an improvement plan with them.
 - Hold each other accountable on screencasts.
-- Add more "Cliffs Notes" and walkthroughs at the ends of lesson plans.
+- Add more "Quick References" and walkthroughs at the ends of lesson plans, as in the Rails Deployment lesson plan.
 
-## Individual Action Items
+## Action Items for Individual Instructors
 
 ### Robin
 - Balance out using examples with providing clear, concise definitions.
