@@ -23,7 +23,6 @@
 - Roshana	Devkota
 - Rebecca	Estes
 - Alice	Frumin
-- Maurice	Gibbs
 - Joseph	Glatman Zaretsky
 - Mohamed ‘Moe’	Goodwin
 - Dumitru	Gorgan
@@ -50,7 +49,6 @@
 - Chris	Kibble
 - Brendan	Lewis
 - Bryce	Lively
-- Benjamin	Logan
 - Brendan	Mahoney
 - Chauncey	Manson IV
 - Samir	Mehta
@@ -75,7 +73,6 @@
 ## Nick (Hackasaurs)
 - Thomas Solow
 - Eric Stennett
-- Sigmund Tang
 - Qadriyyah Thomas
 - Dennis Truong
 - Britton Walker
