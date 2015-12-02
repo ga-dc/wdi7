@@ -3,12 +3,8 @@
 ## Week 8 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Week 7 | Tuesday | [Final Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
-
-## Week 9 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Week 7 | Tuesday | [Final Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
+| Week 7 | Tuesday | [Final Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=117042781) (Outcomes)|
+| | Before 1-on-1's | Job Search Tracker |
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
