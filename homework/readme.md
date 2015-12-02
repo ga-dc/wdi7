@@ -1,21 +1,14 @@
 # Homework
 
-## Week 6 Homework
-***Unless otherwise noted, homework is due at 9:00am***
-
+## Week 8 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-|  | Tuesday | [Final Brand Statement](https://github.com/ga-dc/outcomes-brand-statement) (Outcomes) |
-|  | Tuesday | [Student Action Plan: Building Your Resume](https://github.com/ga-dc/outcomes-resume-worksheet) (Outcomes) |
-| Friday | Monday | [Read EJS Chapter on Node](http://eloquentjavascript.net/20_node.html)|
+| Week 7 | Tuesday | [Final Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
 
-## Week 7 Homework
-***Unless otherwise noted, homework is due at 9:00am***
-
+## Week 9 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Week 6 | Tuesday | [Draft of Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=1038012474) (Outcomes)|
-| Monday 11/23 | Monday 11/30 | [Thanksgiving HW](https://github.com/ga-dc/thanksgiving-homework)|
+| Week 7 | Tuesday | [Final Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
@@ -34,16 +27,6 @@
 - General Assembly's headquarters in New York publishes a handbook of course guidelines, in which they state that 80% of homework must be completed by all students at minimum. However, they do not define any consequences for not meeting this benchmark. Therefore, the consequences as set by GA's DC branch are that slipping below 80% is a "red flag" to the staff and instructors in terms of student integrity and work ethic, and the staff and/or instructors will meet with the student to develop a personal improvement plan.
 
 <!--
-## Week 8 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Week 7 | Tuesday | [Final Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
-
-## Week 9 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Week 7 | Tuesday | [Final Resume](https://github.com/ga-dc/outcomes-resume)(Outcomes)|
-
 ## Week 10 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|

@@ -67,3 +67,20 @@
 | Monday | Wednesday | [Scribble](https://github.com/ga-dc/scribble):  Basic models, migratons, views, controllers, and routes |
 | Wednesday | Friday | [Scribble](https://github.com/ga-dc/scribble): Nested routes, form/link helpers, and deploy to Heroku |
 | Friday | Monday | [ERD, Wireframes, and User Stories for Project 2](https://github.com/ga-dc/project2/blob/master/homework.md) |
+
+## Week 6 Homework
+***Unless otherwise noted, homework is due at 9:00am***
+
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+|  | Tuesday | [Final Brand Statement](https://github.com/ga-dc/outcomes-brand-statement) (Outcomes) |
+|  | Tuesday | [Student Action Plan: Building Your Resume](https://github.com/ga-dc/outcomes-resume-worksheet) (Outcomes) |
+| Friday | Monday | [Read EJS Chapter on Node](http://eloquentjavascript.net/20_node.html)|
+
+## Week 7 Homework
+***Unless otherwise noted, homework is due at 9:00am***
+
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Week 6 | Tuesday | [Draft of Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=1038012474) (Outcomes)|
+| Monday 11/23 | Monday 11/30 | [Thanksgiving HW](https://github.com/ga-dc/thanksgiving-homework)|
