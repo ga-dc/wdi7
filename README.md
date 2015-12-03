@@ -16,6 +16,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 
 - [Project 1](https://github.com/ga-dc/project1)
 - [Project 2](https://github.com/ga-dc/project2)
+- [Project 3](https://github.com/ga-dc/project3)
 
 ## Mini Lessons
 
@@ -24,6 +25,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 03: D3](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/d3)
 - [Week 04: Troubleshooting Sinatra](https://github.com/ga-dc/curriculum/tree/master/04-ruby-mvc-sinatra/sinatra-troubleshooting)
 - [Week 05: File Uploads w/ AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws)
+- [Week 08: RegEx](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/regex) 
 
 ## Morning Exercises
 
@@ -32,6 +34,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 03: Luhn Algorithm](https://github.com/ga-dc/luhn_algorithm)
 - [Week 04: Romanize](https://github.com/ga-dc/romanize)
 - [Week 05: The Tech Interview](https://github.com/ga-dc/the_tech_interview)
+- [Week 08: Vignere Cipher](https://github.com/ga-dc/vignere_cipher)
 
 ## Labs
 
