@@ -10,7 +10,7 @@
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
 | Week 9 | Tuesday | [Alumni Profile](https://github.com/ga-dc/outcomes-alumni-profile)(Outcomes)|
-| Monday (12/14) | Wednesday (12/16) | [Grumblr with built-in Directives](https://github.com/jmas13/grumblr-intro-ng-directives)|
+| Monday (12/14) | Wednesday (12/16) | [Grumblr with built-in Directives](https://github.com/ga-dc/grumblr-intro-ng-directives)|
 
 
 ## General Guidelines
