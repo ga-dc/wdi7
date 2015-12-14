@@ -84,3 +84,10 @@
 |---|---|---|
 | Week 6 | Tuesday | [Draft of Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=1038012474) (Outcomes)|
 | Monday 11/23 | Monday 11/30 | [Thanksgiving HW](https://github.com/ga-dc/thanksgiving-homework)|
+
+
+## Week 8 Homework
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Week 7 | Tuesday | [Final Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=117042781) (Outcomes)|
+| | Before 1-on-1's | Job Search Tracker |

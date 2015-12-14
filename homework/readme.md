@@ -1,10 +1,11 @@
 # Homework
 
-## Week 8 Homework
+## Week 10 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Week 7 | Tuesday | [Final Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=117042781) (Outcomes)|
-| | Before 1-on-1's | Job Search Tracker |
+| Week 9 | Tuesday | [Alumni Profile](https://github.com/ga-dc/outcomes-alumni-profile)(Outcomes)|
+| Monday | Wednesday | [Show / New / Edit / Update / Delete Grumblr](https://github.com/ga-dc/grumblr_angular)|
+| Wednesday | Friday | [Complete WDI Radio](https://github.com/ga-dc/wdi_radio)|
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
@@ -23,10 +24,6 @@
 - General Assembly's headquarters in New York publishes a handbook of course guidelines, in which they state that 80% of homework must be completed by all students at minimum. However, they do not define any consequences for not meeting this benchmark. Therefore, the consequences as set by GA's DC branch are that slipping below 80% is a "red flag" to the staff and instructors in terms of student integrity and work ethic, and the staff and/or instructors will meet with the student to develop a personal improvement plan.
 
 <!--
-## Week 10 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Week 9 | Tuesday | [Alumni Profile](https://github.com/ga-dc/outcomes-alumni-profile)(Outcomes)|
 
 ## Week 11 Homework
 | Date Assigned | Due Date | Assignment |
