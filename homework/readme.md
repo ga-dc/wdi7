@@ -3,7 +3,7 @@
 ## Week 10 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Week 9 | Tuesday | [Alumni Profile](https://github.com/ga-dc/outcomes-alumni-profile)(Outcomes)|
+| Week 9 | Tuesday | [Alumni Profile](https://profiles.generalassemb.ly/)(Outcomes)|
 | Monday | Wednesday | [Show / New / Edit / Update / Delete Grumblr](https://github.com/ga-dc/grumblr_angular)|
 | Wednesday | Friday | [Complete WDI Radio](https://github.com/ga-dc/wdi_radio)|
 
