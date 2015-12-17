@@ -9,6 +9,7 @@
 | [Week 7](https://github.com/ga-dc/wdi7-quiz7) | [Answers](https://github.com/ga-dc/wdi7-quiz7/tree/solution) |
 | [Week 8](https://github.com/ga-dc/wdi7-quiz8) | [Answers](https://github.com/ga-dc/wdi7-quiz8/tree/solution) |
 | [Week 9](https://github.com/ga-dc/wdi7-quiz9) | [Answers](https://github.com/ga-dc/wdi7-quiz9/tree/solution) |
-| [Week 10](https://github.com/ga-dc/wdi7-quiz10) | [Answers](https://github.com/ga-dc/wdi7-quiz10/tree/solution) |
+| [Week 10: Cumulative Review](https://github.com/ga-dc/wdi7-quiz10) | [Answers](https://github.com/ga-dc/wdi7-quiz10/tree/solution) |
+| [Week 10: Angular (Optional)](https://github.com/ga-dc/angular_quiz) | [Answers](https://github.com/ga-dc/angular_quiz/tree/solution) |
 | [Week 11](https://github.com/ga-dc/wdi7-quiz11) | [Answers](https://github.com/ga-dc/wdi7-quiz11/tree/solution) |
 | [Week 12](https://github.com/ga-dc/wdi7-quiz12) | [Answers](https://github.com/ga-dc/wdi7-quiz12/tree/solution) |

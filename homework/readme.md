@@ -10,7 +10,7 @@
 ## Holiday Homework
 | Due Date | Assignment |
 |---|---|
-|Wednesday, 12/23 | [Cumulative Quiz](#) |
+|Wednesday, 12/23 | [Cumulative Quiz](https://github.com/ga-dc/wdi7_quiz10) |
 |Wednesday, 12/23 | [Week 11 Track Choice](http://doodle.com/poll/pbuxi8v69hawh86t) |
 |Monday, January 4| [Tutorials for Past You](https://github.com/ga-dc/tutorials_for_past_you)|
 |Monday, January 4| Finalize GA Profile & Resume|
