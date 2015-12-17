@@ -7,6 +7,17 @@
 | Monday | Wednesday | [Show / New / Edit / Update / Delete Grumblr](https://github.com/ga-dc/grumblr_angular)|
 | Wednesday | Friday | [Complete WDI Radio](https://github.com/ga-dc/wdi_radio)|
 
+## Holiday Homework
+| Due Date | Assignment |
+|---|---|
+|Wednesday, 12/23 | [Cumulative Quiz](#) |
+|Wednesday, 12/23 | [Week 11 Track Choice](http://doodle.com/poll/pbuxi8v69hawh86t) |
+|Monday, January 4| [Tutorials for Past You](https://github.com/ga-dc/tutorials_for_past_you)|
+|Monday, January 4| Finalize GA Profile & Resume|
+|Optional| [Angular Quiz](https://github.com/ga-dc/angular_quiz)|
+|Optional, No Deliverable|[If you're feeling off track...](https://github.com/ga-dc/wdi7/blob/master/holidays.md)|
+
+
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
 - Unless otherwise directed, each assignment should be forked and cloned from a `ga-dc` repository, and submitted as a pull request to the original `ga-dc` repository from your fork by 9:00am of the day on which it is due.
