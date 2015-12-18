@@ -9,8 +9,8 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 
 ## Holidays
 
-- Thanksgiving: Wednesday, November 25 to Friday, November 27
-- Winter Break: Saturday, December 19 to Sunday, January 3rd
+- Thanksgiving: Wednesday, November 25 to Sunday, November 29
+- Winter Break: Saturday, December 19 to Sunday, January 3
 
 ## Projects
 
