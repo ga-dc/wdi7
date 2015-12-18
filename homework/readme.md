@@ -5,7 +5,7 @@
 |---|---|---|
 | Week 9 | Tuesday | [Alumni Profile](https://profiles.generalassemb.ly/)(Outcomes)|
 | Monday | Wednesday | [Show / New / Edit / Update / Delete Grumblr](https://github.com/ga-dc/grumblr_angular)|
-| Wednesday | Friday | [Complete WDI Radio](https://github.com/ga-dc/wdi_radio)|
+| Wednesday | Friday | [Complete WDI Radio](https://github.com/ga-dc/wdi_radio_lab)|
 
 ## Holiday Homework
 | Due Date | Assignment |
