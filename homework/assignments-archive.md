@@ -91,3 +91,20 @@
 |---|---|---|
 | Week 7 | Tuesday | [Final Resume](https://docs.google.com/spreadsheets/d/1qqP9H_CK-WYRyzksaaF-Nk9GEKF_OEAtomICdlJoN6I/edit#gid=117042781) (Outcomes)|
 | | Before 1-on-1's | Job Search Tracker |
+
+## Week 10 Homework
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Week 9 | Tuesday | [Alumni Profile](https://profiles.generalassemb.ly/)(Outcomes)|
+| Monday | Wednesday | [Show / New / Edit / Update / Delete Grumblr](https://github.com/ga-dc/grumblr_angular)|
+| Wednesday | Friday | [Complete WDI Radio](https://github.com/ga-dc/wdi_radio_lab)|
+
+## Holiday Homework
+| Due Date | Assignment |
+|---|---|
+|Wednesday, 12/23 | [Cumulative Quiz](https://github.com/ga-dc/wdi7_quiz10) |
+|Wednesday, 12/23 | [Week 11 Track Choice](https://docs.google.com/a/generalassemb.ly/forms/d/1vdf2PVc8dSsXCwDT9JfUt_lqPVmOLSYptL7K1gz_ols/viewform) |
+|Monday, January 4| [Tutorials for Past You](https://github.com/ga-dc/tutorials_for_past_you)|
+|Monday, January 4| Finalize GA Profile & Resume|
+|Optional| [Angular Quiz](https://github.com/ga-dc/angular_quiz)|
+|Optional, No Deliverable|[If you're feeling off track...](https://github.com/ga-dc/wdi7/blob/master/holidays.md)|
