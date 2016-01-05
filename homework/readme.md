@@ -3,7 +3,8 @@
 ## Week 11 Homework
 | Date Assigned | Due Date | Assignment |
 |---|---|---|
-| Tuesday | Wednesday | Design Track ONLY: [Bootstrapify Something](https://github.com/ga-dc/bootstrap-ify)
+| Tuesday | Wednesday | Design Track ONLY: [Bootstrapify Something](https://github.com/ga-dc/bootstrap-ify) |
+| Wednesday | Friday | Design Track ONLY: [Plannr](https://github.com/ga-dc/plannr) |
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
