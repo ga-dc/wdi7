@@ -5,6 +5,8 @@
 |---|---|---|
 | Tuesday | Wednesday | Design Track ONLY: [Bootstrapify Something](https://github.com/ga-dc/bootstrap-ify) |
 | Wednesday | Friday | Design Track ONLY: [Plannr](https://github.com/ga-dc/plannr) |
+| Tuesday | Friday | Backbone Track ONLY: [WDI Radio Backbone](https://github.com/ga-dc/wdi_radio_backbone) |
+
 
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
