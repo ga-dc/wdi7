@@ -28,7 +28,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 05: File Uploads w/ AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws)
 - [Week 08: RegEx](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/regex)
 - [Week 10: Elm](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/elm)
-- [Week 11: HTTP Server From Scratch](https://github.com/ga-dc/http_server_from_scratch)
+- [Week 11: HTTP Server From Scratch](https://github.com/ga-dc/curriculum/tree/master/other-lessons/web_server_from_scratch)
 
 ## Morning Exercises
 
