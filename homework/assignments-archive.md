@@ -108,3 +108,10 @@
 |Monday, January 4| Finalize GA Profile & Resume|
 |Optional| [Angular Quiz](https://github.com/ga-dc/angular_quiz)|
 |Optional, No Deliverable|[If you're feeling off track...](https://github.com/ga-dc/wdi7/blob/master/holidays.md)|
+
+## Week 11 Homework
+| Date Assigned | Due Date | Assignment |
+|---|---|---|
+| Tuesday | Wednesday | Design Track ONLY: [Bootstrapify Something](https://github.com/ga-dc/bootstrap-ify) |
+| Wednesday | Friday | Design Track ONLY: [Plannr](https://github.com/ga-dc/plannr) |
+| Tuesday | Friday | Backbone Track ONLY: [WDI Radio Backbone](https://github.com/ga-dc/wdi_radio_backbone) |

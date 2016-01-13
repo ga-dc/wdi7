@@ -1,13 +1,5 @@
 # Homework
 
-## Week 11 Homework
-| Date Assigned | Due Date | Assignment |
-|---|---|---|
-| Tuesday | Wednesday | Design Track ONLY: [Bootstrapify Something](https://github.com/ga-dc/bootstrap-ify) |
-| Wednesday | Friday | Design Track ONLY: [Plannr](https://github.com/ga-dc/plannr) |
-| Tuesday | Friday | Backbone Track ONLY: [WDI Radio Backbone](https://github.com/ga-dc/wdi_radio_backbone) |
-
-
 ## General Guidelines
 - You will be given one or more assignments to finish by Wednesday at 9:00am, and one or more by Friday at 9:00am.
 - Unless otherwise directed, each assignment should be forked and cloned from a `ga-dc` repository, and submitted as a pull request to the original `ga-dc` repository from your fork by 9:00am of the day on which it is due.

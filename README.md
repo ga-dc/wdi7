@@ -17,6 +17,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Project 1](https://github.com/ga-dc/project1)
 - [Project 2](https://github.com/ga-dc/project2)
 - [Project 3](https://github.com/ga-dc/project3)
+- [Project 4](https://github.com/ga-dc/project4)
 
 ## Mini Lessons
 
@@ -27,6 +28,7 @@ Welcome to the Seventh Iteration of General Assembly's Web Development Immersive
 - [Week 05: File Uploads w/ AWS](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/file-uploads-with-carrier-wave-and-aws)
 - [Week 08: RegEx](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/regex)
 - [Week 10: Elm](https://github.com/ga-dc/curriculum/tree/master/mini-lessons/elm)
+- [Week 11: HTTP Server From Scratch](https://github.com/ga-dc/http_server_from_scratch)
 
 ## Morning Exercises
 
